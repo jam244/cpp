@@ -1,4 +1,4 @@
-# An Automated Parking lot implementation. 
+# An Automated Parking lot implementation in C++. 
 
 Implemented in **Unubuntu 20.04**  environment and built with cmake.
 
