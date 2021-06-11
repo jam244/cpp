@@ -16,4 +16,6 @@ Sorting took a Wall time: 409 ms
 
 Validation was done by plotting the column before and after sorting.
 
-![](sort1.png)
+![](images/sort1.png)
+
+![](images/sort2.png)
